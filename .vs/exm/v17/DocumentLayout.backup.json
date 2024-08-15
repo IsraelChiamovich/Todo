@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\views\\todo\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\views\\todo\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\views\\todo\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\views\\todo\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\models\\todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\views\\todo\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\views\\todo\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\views\\todo\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\views\\todo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\views\\todo\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|c:\\users\\user\\desktop\\idf kodcode\\c#\\week7\\exm\\exm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED3A4767-8578-49CA-9508-1801D90E9302}|exm\\exm.csproj|solutionrelative:exm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Error.cshtml",
+              "RelativeDocumentMoniker": "exm\\Views\\Todo\\Error.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Error.cshtml*",
+              "RelativeToolTip": "exm\\Views\\Todo\\Error.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:56:47.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Success.cshtml",
+              "RelativeDocumentMoniker": "exm\\Views\\Todo\\Success.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Success.cshtml*",
+              "RelativeToolTip": "exm\\Views\\Todo\\Success.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:55:59.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Delete.cshtml",
+              "RelativeDocumentMoniker": "exm\\Views\\Todo\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Delete.cshtml",
+              "RelativeToolTip": "exm\\Views\\Todo\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:17:58.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Edit.cshtml",
+              "RelativeDocumentMoniker": "exm\\Views\\Todo\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Edit.cshtml",
+              "RelativeToolTip": "exm\\Views\\Todo\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:17:21.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "exm\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "exm\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:16:55.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Details.cshtml",
+              "RelativeDocumentMoniker": "exm\\Views\\Todo\\Details.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Details.cshtml",
+              "RelativeToolTip": "exm\\Views\\Todo\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T14:16:29.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "exm\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "exm\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-15T13:48:39.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Todos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Models\\Todos.cs",
+              "RelativeDocumentMoniker": "exm\\Models\\Todos.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Models\\Todos.cs",
+              "RelativeToolTip": "exm\\Models\\Todos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:45:14.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "exm\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Models\\Todo.cs",
+              "RelativeToolTip": "exm\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:44:35.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "exm\\Controllers\\TodoController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "exm\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAswHAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:42:10.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "exm\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "exm\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:41:33.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Program.cs",
+              "RelativeDocumentMoniker": "exm\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\idf kodcode\\c#\\week7\\exm\\exm\\Program.cs",
+              "RelativeToolTip": "exm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T13:40:08.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
